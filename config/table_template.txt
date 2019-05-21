@@ -1,0 +1,5 @@
+﻿ID	Idata	Fdata	content	Items	CustomData
+INT	INT	FLOAT	STRING	INTARRAY	CUSTOM
+1	14	10.4	work for apollo	3:312,534,12	1,10,50.0
+2	32	4.5	make it better	3:7,424,234	3,44,10.4
+3	353	334.1	is my dream	3:12,42,123	1,33,12.9
