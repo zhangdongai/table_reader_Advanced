@@ -6,4 +6,4 @@
 
 ## Add new table
 
-# Add new type
+## Add new type
